@@ -1,0 +1,132 @@
+[
+    {
+        "product_name": "Sleep Optimization Robot",
+        "product_description": "A bedside gadget that analyzes sleep patterns and dynamically adjusts room conditions (lighting, sound, temperature) for optimal rest.",
+        "marketing_assets": [
+            {
+                "brand_name": "DreamHarmonizer",
+                "tagline": "\"Craft Your Perfect Night's Sleep\"",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-eJniDahDYYUroXALjwp0yz90.png?st=2025-09-22T21%3A32%3A20Z&se=2025-09-22T23%3A32%3A20Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=1726b4ce-fee1-450b-8b92-1731ad8745f6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-21T23%3A30%3A50Z&ske=2025-09-22T23%3A30%3A50Z&sks=b&skv=2024-08-04&sig=uYPQggU4to7NHxf6Le/cZRwBtnyhjWuxFNgY%2BPbHThg%3D"
+            },
+            {
+                "brand_name": "SlumberSense",
+                "tagline": "\"Transform Your Sleep, Transform Your Day\"",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-bSWzsSdWQ6MmvJ8IrV4DYtAe.png?st=2025-09-22T21%3A32%3A17Z&se=2025-09-22T23%3A32%3A17Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=52f8f7b3-ca8d-4b21-9807-8b9df114d84c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T13%3A45%3A06Z&ske=2025-09-23T13%3A45%3A06Z&sks=b&skv=2024-08-04&sig=jUdnZq7dITY0A2IoY9jWVhOHTVeD%2BMVy3oE5qMYz/XA%3D"
+            },
+            {
+                "brand_name": "SomnoSync",
+                "tagline": "\"Unlock the Secret to Perfect Sleep\"",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-SuDs3QwVNpmNnWoMnWrPnVg8.png?st=2025-09-22T21%3A32%3A17Z&se=2025-09-22T23%3A32%3A17Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=52f8f7b3-ca8d-4b21-9807-8b9df114d84c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T22%3A32%3A17Z&ske=2025-09-23T22%3A32%3A17Z&sks=b&skv=2024-08-04&sig=Uxw55hacwnDHfoTKG8m7TFVLEFJe6QaSd6Ikng11u0Q%3D"
+            },
+            {
+                "brand_name": "SlumberSync",
+                "tagline": "\"Harmonize Your Sleep for Peak Performance\"",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-498wXtNWrO2ktPzOBStID1Rf.png?st=2025-09-22T21%3A32%3A20Z&se=2025-09-22T23%3A32%3A20Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=52f8f7b3-ca8d-4b21-9807-8b9df114d84c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T17%3A08%3A35Z&ske=2025-09-23T17%3A08%3A35Z&sks=b&skv=2024-08-04&sig=iQlnUWbiUN%2BfmX1pcunn%2BEwQqODMS1NbwIL7dCyyC9w%3D"
+            }
+        ]
+    },
+    {
+        "product_name": "Interactive Language Tutor",
+        "product_description": "A portable AI robot that teaches languages through conversation and interactive storytelling.",
+        "marketing_assets": [
+            {
+                "brand_name": "LinguaBot",
+                "tagline": "\"Unlock a World of Words: Learn Language Naturally\"",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-8XHTwyGGHOuqkqykQG2qUyH0.png?st=2025-09-22T21%3A32%3A39Z&se=2025-09-22T23%3A32%3A39Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=70313862-61f1-446b-9bb2-fa32b037e024&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T22%3A23%3A27Z&ske=2025-09-23T22%3A23%3A27Z&sks=b&skv=2024-08-04&sig=aThmE5i7KkXs4SPi5Ki%2BjDAf1wmFSripcxSVt3rPfRI%3D"
+            },
+            {
+                "brand_name": "LingoBot",
+                "tagline": "\"Speak, Learn, Connect \u2013 One Story at a Time\"",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-ckTTHDU1JV9mxb5KXkbPYXTZ.png?st=2025-09-22T21%3A32%3A38Z&se=2025-09-22T23%3A32%3A38Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=1726b4ce-fee1-450b-8b92-1731ad8745f6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T22%3A32%3A38Z&ske=2025-09-23T22%3A32%3A38Z&sks=b&skv=2024-08-04&sig=AYXNhKGNjZcrJXnlDy65wZU71E6XvOEyGhLWvzPxm9Y%3D"
+            },
+            {
+                "brand_name": "LingoBot",
+                "tagline": "\"Speak. Learn. Explore.\"",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-0LUzwPwsqlWsv8lkTO1fNvWb.png?st=2025-09-22T21%3A32%3A41Z&se=2025-09-22T23%3A32%3A41Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T08%3A16%3A18Z&ske=2025-09-23T08%3A16%3A18Z&sks=b&skv=2024-08-04&sig=haMK45yjCqV%2BmLziovVZObAOIcqzHYpM2t1sGL3ODqE%3D"
+            },
+            {
+                "brand_name": "LingoBot",
+                "tagline": "Unlock New Worlds, One Conversation at a Time",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-Q593j4Gur9UOGIPszm8xmt0l.png?st=2025-09-22T21%3A32%3A44Z&se=2025-09-22T23%3A32%3A44Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=f245bf7a-16fa-44e0-959a-8c745daf7e3d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T05%3A29%3A51Z&ske=2025-09-23T05%3A29%3A51Z&sks=b&skv=2024-08-04&sig=/BeqLtRrGMhGft%2BIV82stgJvUgIKgoT%2BrI2xVeK3518%3D"
+            }
+        ]
+    },
+    {
+        "product_name": "Remote Pet Pal",
+        "product_description": "An interactive pet companion that plays, feeds, and monitors pets remotely via smartphone app.",
+        "marketing_assets": [
+            {
+                "brand_name": "PetBotics",
+                "tagline": "Nurture Connection, Anytime, Anywhere",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-awe0HhgPtpOMryzAcLHco1EW.png?st=2025-09-22T21%3A33%3A02Z&se=2025-09-22T23%3A33%3A02Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=1726b4ce-fee1-450b-8b92-1731ad8745f6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T12%3A12%3A03Z&ske=2025-09-23T12%3A12%3A03Z&sks=b&skv=2024-08-04&sig=fAksSpGlZAwtTxQBzW2AM/oMd0/iK0SWhk1KeV9G1ww%3D"
+            },
+            {
+                "brand_name": "PetGuardian",
+                "tagline": "Your Pet's Best Friend, Anytime, Anywhere",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-9IBZFw6GV6eUzYBK8Z3cI5dr.png?st=2025-09-22T21%3A33%3A03Z&se=2025-09-22T23%3A33%3A03Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=f245bf7a-16fa-44e0-959a-8c745daf7e3d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T02%3A41%3A23Z&ske=2025-09-23T02%3A41%3A23Z&sks=b&skv=2024-08-04&sig=LQknLPUPdI9mtNIMfeqAcIJxWoQHpTK%2BbkDuXOs1vdk%3D"
+            },
+            {
+                "brand_name": "PetLink",
+                "tagline": "\"Connecting You to Your Furry Friend, Anytime, Anywhere\"",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-YXwYIufgEHEL1hGCX4riFWJU.png?st=2025-09-22T21%3A33%3A02Z&se=2025-09-22T23%3A33%3A02Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T08%3A49%3A23Z&ske=2025-09-23T08%3A49%3A23Z&sks=b&skv=2024-08-04&sig=DPoiaXXQGJaqhsTmwXCuv9LC6cDM1UT6Ep6YFwX/6ao%3D"
+            },
+            {
+                "brand_name": "FetchMaster",
+                "tagline": "Connect, Care, Cherish - Anytime, Anywhere",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-VN0HuCDgPMB5QcEG2aARKcnw.png?st=2025-09-22T21%3A32%3A59Z&se=2025-09-22T23%3A32%3A59Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=67205dde-9780-4119-bbff-6343b48e42b6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T13%3A46%3A13Z&ske=2025-09-23T13%3A46%3A13Z&sks=b&skv=2024-08-04&sig=jKPGZNbpCzNUAZRxnad09MI96c%2BpkrGPVwkgGRDJ1iE%3D"
+            }
+        ]
+    },
+    {
+        "product_name": "Augmented Reality Fashion Stylist",
+        "product_description": "A wearable AR device that suggests clothing and accessory matches, visualizing them on the user through augmented reality.",
+        "marketing_assets": [
+            {
+                "brand_name": "StyleSync",
+                "tagline": "Transform the way you dress, one look at a time.",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-zBmoWRMcf2Jxwyr2wCnhYmEE.png?st=2025-09-22T21%3A33%3A19Z&se=2025-09-22T23%3A33%3A19Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=67205dde-9780-4119-bbff-6343b48e42b6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T13%3A46%3A54Z&ske=2025-09-23T13%3A46%3A54Z&sks=b&skv=2024-08-04&sig=kPPEAc5y2VXfMWJBb7a4YaM0SVPynSa3m5QnKi55DCs%3D"
+            },
+            {
+                "brand_name": "StyleSync",
+                "tagline": "\"Unleash Your Wardrobe's Potential\"",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-xgCJXW2dsZ2JamHMTjf8wD6P.png?st=2025-09-22T21%3A33%3A25Z&se=2025-09-22T23%3A33%3A25Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=70313862-61f1-446b-9bb2-fa32b037e024&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T22%3A33%3A25Z&ske=2025-09-23T22%3A33%3A25Z&sks=b&skv=2024-08-04&sig=8G%2BhlJwBnjxq4NGkwkjwwZjgmW2QIkWtuz/TtSRzYeo%3D"
+            },
+            {
+                "brand_name": "VogueVision",
+                "tagline": "Style Beyond Reality",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-WR4x6lULYoBlXYFr2jp9NkUD.png?st=2025-09-22T21%3A33%3A21Z&se=2025-09-22T23%3A33%3A21Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=fbf4b681-538a-442a-8e58-f3b99f10cd54&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T12%3A30%3A53Z&ske=2025-09-23T12%3A30%3A53Z&sks=b&skv=2024-08-04&sig=zD6NQdSocF86skFhfI9K0GRtcfgYWLuam9vSzQBB19U%3D"
+            },
+            {
+                "brand_name": "ChicVision",
+                "tagline": "\"Elevate Your Style, Effortlessly\"",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-BWUpzPXyIGdSywHl2JWlcSIW.png?st=2025-09-22T21%3A33%3A25Z&se=2025-09-22T23%3A33%3A25Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=67205dde-9780-4119-bbff-6343b48e42b6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T14%3A22%3A21Z&ske=2025-09-23T14%3A22%3A21Z&sks=b&skv=2024-08-04&sig=vn0nLwS2LN0xW206Ya1dgSQp9qP5np8o1B6YdtC57m8%3D"
+            }
+        ]
+    },
+    {
+        "product_name": "Smart Kitchen Companion",
+        "product_description": "A counter-top assistant that suggests recipes, adjusts ingredient measurements, and monitors cooking progress.",
+        "marketing_assets": [
+            {
+                "brand_name": "RoboChef Pro",
+                "tagline": "Elevate Your Culinary Experience",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-z1o4IlS3whRojuToeAFalI5u.png?st=2025-09-22T21%3A59%3A57Z&se=2025-09-22T23%3A59%3A57Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=52f8f7b3-ca8d-4b21-9807-8b9df114d84c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T14%3A13%3A59Z&ske=2025-09-23T14%3A13%3A59Z&sks=b&skv=2024-08-04&sig=fcKibDRZIc/64YQFGM2xKROnaUjzlXxOfvIpr1evNd0%3D"
+            },
+            {
+                "brand_name": "CulinAIre",
+                "tagline": "Enhancing Flavor, Elevating Experience",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-GACfc6Kan4nHudt9VuqE6uGz.png?st=2025-09-22T22%3A00%3A00Z&se=2025-09-23T00%3A00%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=1726b4ce-fee1-450b-8b92-1731ad8745f6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T07%3A21%3A12Z&ske=2025-09-23T07%3A21%3A12Z&sks=b&skv=2024-08-04&sig=HYNQKKqUlea3nNu80zgH7HkeSJq1ugDQLaosEceIFvU%3D"
+            },
+            {
+                "brand_name": "ChefTech",
+                "tagline": "Turning Every Cook into a Master Chef",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-Bpg1Sk2ZQeZOKadRlwWtekYj.png?st=2025-09-22T22%3A00%3A01Z&se=2025-09-23T00%3A00%3A01Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=f245bf7a-16fa-44e0-959a-8c745daf7e3d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T23%3A00%3A01Z&ske=2025-09-23T23%3A00%3A01Z&sks=b&skv=2024-08-04&sig=KcW2CYFBA2PnwDtRhbhh9HpxRZI7cuGCBrdtxeyiU/0%3D"
+            },
+            {
+                "brand_name": "RoboChef",
+                "tagline": "\"Transforming Your Kitchen with Intelligent Precision\"",
+                "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGTziyXQKv8dkYauRD1K0Osu/user-jPwUdbyoM52WOxjQGrtmBHI6/img-wofY7zL06n8BwCypuk3feI3p.png?st=2025-09-22T21%3A59%3A59Z&se=2025-09-22T23%3A59%3A59Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=fbf4b681-538a-442a-8e58-f3b99f10cd54&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T09%3A30%3A25Z&ske=2025-09-23T09%3A30%3A25Z&sks=b&skv=2024-08-04&sig=DOvGW4wIjezjh0eGpBNel2DxMiTsPvz/Z2X7gfRArEk%3D"
+            }
+        ]
+    }
+]
