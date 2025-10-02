@@ -1,0 +1,264 @@
+```html
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>LinguaBot — Speak & Learn Effortlessly</title>
+
+  <!-- Roboto from Google Fonts (keeps the HTML/CSS simple while delivering the requested font) -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+
+  <style>
+    /* Inline CSS (single-file) */
+    :root{
+      --bg:#f6f8fb;
+      --card:#ffffff;
+      --accent:#0b7cff;
+      --muted:#6b7280;
+      --radius:14px;
+      --gap:20px;
+      font-family: "Roboto", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+
+    *{box-sizing:border-box}
+
+    body{
+      margin:0;
+      background:linear-gradient(180deg,var(--bg),#ffffff 60%);
+      color:#0f1724;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+      line-height:1.45;
+    }
+
+    .wrap{
+      max-width:1100px;
+      margin:48px auto;
+      padding:24px;
+      text-align:center;
+    }
+
+    .hero{
+      display: flex;
+      justify-content: center;
+      gap:var(--gap);
+      align-items:center;
+    }
+
+    /* Responsive fallback */
+    @media (max-width:880px){
+      .hero{ grid-template-columns: 1fr; padding-bottom: 8px; }
+      .hero .visual{ order:-1; }
+    }
+
+    .card{
+      background:var(--card);
+      border-radius:var(--radius);
+      padding:28px;
+      box-shadow: 0 8px 30px rgba(11,28,50,0.06);
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    .eyebrow{
+      display:inline-block;
+      font-weight:700;
+      color:var(--accent);
+      font-size:13px;
+      letter-spacing:0.6px;
+      margin-bottom:12px;
+    }
+
+    h1{
+      margin:0 0 12px 0;
+      font-size:32px;
+      font-weight:700;
+      color:#071033;
+    }
+
+    p.lead{
+      margin:0 0 20px 0;
+      color:var(--muted);
+      font-weight:400;
+    }
+
+    .cta-row{
+      display:flex;
+      gap:12px;
+      align-items:center;
+      justify-content:center;
+      margin-top:18px;
+      flex-wrap:wrap;
+    }
+
+    .btn{
+      background:var(--accent);
+      color:white;
+      border:none;
+      padding:12px 18px;
+      border-radius:10px;
+      font-weight:700;
+      cursor:pointer;
+      box-shadow: 0 6px 18px rgba(11,28,50,0.12);
+      text-decoration:none;
+      display:inline-flex;
+      align-items:center;
+      gap:10px;
+    }
+
+    .btn.secondary{
+      background:transparent;
+      color:var(--accent);
+      border:1px solid rgba(11,124,255,0.12);
+      font-weight:600;
+      box-shadow:none;
+    }
+
+    .features{
+      display:grid;
+      grid-template-columns:repeat(3,1fr);
+      gap:12px;
+      margin-top:20px;
+    }
+
+    @media (max-width:880px){
+      .features{ grid-template-columns:repeat(1,1fr); }
+    }
+
+    .feature{
+      background: #f8fafc;
+      border-radius:10px;
+      padding:12px;
+      display:flex;
+      gap:12px;
+      align-items:flex-start;
+    }
+
+    .feature .icon{
+      font-size:20px;
+      margin-top:2px;
+    }
+
+    .feature h4{
+      margin:0 0 4px 0;
+      font-size:15px;
+      font-weight:700;
+    }
+
+    .feature p{
+      margin:0;
+      color:var(--muted);
+      font-size:13px;
+    }
+
+    /* Visual column */
+    .visual{
+      display:flex;
+      justify-content:center;
+      align-items:center;
+    }
+
+    .visual img{
+      width:100%;
+      max-width:420px;
+      height:auto;
+      border-radius:12px;
+      box-shadow: 0 18px 50px rgba(11,28,50,0.08);
+      object-fit:cover;
+      display:block;
+    }
+
+    /* Supporting description card */
+    .support{
+      margin-top:20px;
+      display:flex;
+      gap:12px;
+      align-items:stretch;
+    }
+
+    .support .text{
+      flex:1;
+    }
+
+    .support small{
+      color:var(--muted);
+      display:block;
+      margin-bottom:8px;
+    }
+
+    footer{
+      margin-top:30px;
+      text-align:center;
+      color:var(--muted);
+      font-size:13px;
+    }
+
+    /* micro interactions */
+    .btn:active{ transform:translateY(1px) }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <div class="card">
+        <div class="eyebrow">Interactive Language Tutor</div>
+        <h1>LinguaBot — Speak &amp; Learn Effortlessly</h1>
+        <p class="lead">
+          A portable AI robot that teaches languages through conversation and interactive storytelling,
+          making language learning immersive and engaging.
+        </p>
+
+        <div class="visual">
+            <!-- Use your local image filename here. Make sure image_1_1.png is in the same folder as index.html -->
+            <img src="image_1_1.png" alt="LinguaBot — portable AI language tutor device" />
+          </div>
+
+        <div class="cta-row">
+          <a class="btn" href="#" aria-label="Preorder LinguaBot">Preorder Now →</a>
+          <a class="btn secondary" href="#" aria-label="Learn more about LinguaBot">Learn More</a>
+        </div>
+
+        <div class="features" aria-hidden="false" role="list">
+          <div class="feature" role="listitem">
+            <div>
+              <h4>Voice-Driven Conversations</h4>
+              <p>Real-time dialogues that adapt to your pace for natural speaking practice.</p>
+            </div>
+          </div>
+
+          <div class="feature" role="listitem">
+            <div>
+              <h4>Interactive Storytelling</h4>
+              <p>Immersive stories that reinforce comprehension and cultural context.</p>
+            </div>
+          </div>
+
+          <div class="feature" role="listitem">
+            <div>
+              <h4>Portable & User-Friendly</h4>
+              <p>Compact design for learning anywhere — on the commute, at a cafe, or at home.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="support">
+          <div class="text">
+            <h2>The LinguaBot Difference</h2>
+            <p style="margin:0;color:var(--muted)">
+              LinguaBot blends speech-first practice with story-driven lessons so learners build fluency
+              through meaningful interaction rather than rote drills. It's ideal for beginners and
+              intermediate learners who want to practice conversational skills with a friendly AI partner.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      © 2025 <strong>LinguaBot</strong> — Made for curious learners. • Built with empathy & delightful interaction.
+    </footer>
+  </div>
+</body>
+</html>
+```
