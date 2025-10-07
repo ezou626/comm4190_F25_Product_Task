@@ -1,0 +1,45 @@
+{
+  "base_name": "LinguaBot",
+  "slogans": [
+    "Speak Freely, Connect Globally",
+    "Your Voice, Any Language",
+    "Translate Instantly, Communicate Effortlessly",
+    "Break Barriers, Build Bridges",
+    "Language Made Easy, Conversations Unlimited"
+  ],
+  "alt_names": [
+    "LingoMate",
+    "VerbaTech",
+    "SpeakWise",
+    "LexiBot",
+    "TalkFlow"
+  ],
+  "product_styles": [
+    "Compact tablet with touch screen interface",
+    "Portable pocket-sized device with physical buttons",
+    "Stylish foldable design with integrated speaker",
+    "Sleek pen-shaped device with voice recognition",
+    "Durable tablet with customizable skins and grips"
+  ],
+  "logo_styles": [
+    "A stylized speech bubble combined with a compass rose, symbolizing navigation through communication.",
+    "A minimalist globe with a network of lines representing different languages and connections.",
+    "An open book icon with sound waves emanating from it, indicating the spoken aspects of language.",
+    "A simple arrow integrated into a chat bubble, representing direction in conversations.",
+    "Two overlapping circles with different language symbols inside, connected by a dotted line to signify dialogue."
+  ],
+  "images": [
+    "/Commjhub/jupyterhub/home/lazyexcuseforausername/comm4190_F25/comm4190_F25_Product_Task/linguabot_images/linguabot_01.png",
+    "/Commjhub/jupyterhub/home/lazyexcuseforausername/comm4190_F25/comm4190_F25_Product_Task/linguabot_images/linguabot_02.png",
+    "/Commjhub/jupyterhub/home/lazyexcuseforausername/comm4190_F25/comm4190_F25_Product_Task/linguabot_images/linguabot_03.png",
+    "/Commjhub/jupyterhub/home/lazyexcuseforausername/comm4190_F25/comm4190_F25_Product_Task/linguabot_images/linguabot_04.png",
+    "/Commjhub/jupyterhub/home/lazyexcuseforausername/comm4190_F25/comm4190_F25_Product_Task/linguabot_images/linguabot_05.png"
+  ],
+  "logos": [
+    "/Commjhub/jupyterhub/home/lazyexcuseforausername/comm4190_F25/comm4190_F25_Product_Task/linguabot_logos/linguabot_logo_01.png",
+    "/Commjhub/jupyterhub/home/lazyexcuseforausername/comm4190_F25/comm4190_F25_Product_Task/linguabot_logos/linguabot_logo_02.png",
+    "/Commjhub/jupyterhub/home/lazyexcuseforausername/comm4190_F25/comm4190_F25_Product_Task/linguabot_logos/linguabot_logo_03.png",
+    "/Commjhub/jupyterhub/home/lazyexcuseforausername/comm4190_F25/comm4190_F25_Product_Task/linguabot_logos/linguabot_logo_04.png",
+    "/Commjhub/jupyterhub/home/lazyexcuseforausername/comm4190_F25/comm4190_F25_Product_Task/linguabot_logos/linguabot_logo_05.png"
+  ]
+}

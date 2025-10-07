@@ -1,0 +1,172 @@
+[
+  {
+    "name": "LinguaBot Companion",
+    "purpose": "Personal language learning and translation assistant",
+    "features": [
+      "Purpose: Personal language learning and translation assistant",
+      "Key Features:",
+      "Real-time speech translation in 50+ languages",
+      "Interactive conversational AI",
+      "Adaptive learning algorithms",
+      "Compact, portable design",
+      "Augmented reality language visualization",
+      "- Real-time speech translation in 50+ languages"
+    ],
+    "slogan": "Unlock your Communication with Ease",
+    "image_path": "image_language/01-linguabot-companion.png",
+    "logo_path": "logo_language/01-linguabot-companion-logo.png"
+  },
+  {
+    "name": "EduPal Learning Robot",
+    "purpose": "Personalized educational support for children",
+    "features": [
+      "Purpose: Personalized educational support for children",
+      "Key Features:",
+      "Adaptive curriculum based on individual learning style",
+      "Interactive STEM tutoring",
+      "Emotional intelligence recognition",
+      "Gamified learning experiences",
+      "Progress tracking for parents",
+      "- Adaptive curriculum based on individual learning style"
+    ],
+    "slogan": "Reimagine Effortless Communication for All",
+    "image_path": "image_language/02-edupal-learning-robot.png",
+    "logo_path": "logo_language/02-edupal-learning-robot-logo.png"
+  },
+  {
+    "name": "TranslateMate Earbuds",
+    "purpose": "Instant multilingual communication",
+    "features": [
+      "Purpose: Instant multilingual communication",
+      "Key Features:",
+      "Simultaneous speech translation",
+      "Noise-canceling technology",
+      "Cultural context understanding",
+      "Bluetooth connectivity",
+      "Compact wireless design",
+      "- Simultaneous speech translation"
+    ],
+    "slogan": "Turbocharge Real-time Learning Anywhere You Go",
+    "image_path": "image_language/03-translatemate-earbuds.png",
+    "logo_path": "logo_language/03-translatemate-earbuds-logo.png"
+  },
+  {
+    "name": "CodeMentor Robot",
+    "purpose": "Coding and programming education",
+    "features": [
+      "Purpose: Coding and programming education",
+      "Key Features:",
+      "Interactive coding lessons",
+      "Hands-on robotics programming",
+      "Multiple programming language support",
+      "Visual programming interface",
+      "Skill progression tracking",
+      "- Interactive coding lessons"
+    ],
+    "slogan": "Accelerate Boundless Translation with Ease",
+    "image_path": "image_language/04-codementor-robot.png",
+    "logo_path": "logo_language/04-codementor-robot-logo.png"
+  },
+  {
+    "name": "SeniorCompanion Robot",
+    "purpose": "Elderly care and cognitive stimulation",
+    "features": [
+      "Purpose: Elderly care and cognitive stimulation",
+      "Key Features:",
+      "Memory game interactions",
+      "Health monitoring",
+      "Medication reminders",
+      "Social engagement programs",
+      "Emergency alert system",
+      "- Memory game interactions"
+    ],
+    "slogan": "Simplify Communication That Just Works for All",
+    "image_path": "image_language/05-seniorcompanion-robot.png",
+    "logo_path": "logo_language/05-seniorcompanion-robot-logo.png"
+  },
+  {
+    "name": "MusicMaster Learning Robot",
+    "purpose": "Musical instrument and music theory education",
+    "features": [
+      "Purpose: Musical instrument and music theory education",
+      "Key Features:",
+      "Interactive instrument tutorials",
+      "Real-time performance feedback",
+      "Multiple instrument simulations",
+      "Adaptive learning algorithms",
+      "Sheet music interpretation",
+      "- Interactive instrument tutorials"
+    ],
+    "slogan": "Simplify your Understanding for Everyone",
+    "image_path": "image_language/06-musicmaster-learning-robot.png",
+    "logo_path": "logo_language/06-musicmaster-learning-robot-logo.png"
+  },
+  {
+    "name": "ArtificialTutor Language Robot",
+    "purpose": "Immersive language learning experience",
+    "features": [
+      "Purpose: Immersive language learning experience",
+      "Key Features:",
+      "Virtual reality language environments",
+      "Cultural context simulations",
+      "Pronunciation coaching",
+      "Accent reduction training",
+      "Personalized learning paths",
+      "- Virtual reality language environments"
+    ],
+    "slogan": "Master Conversation Without Barriers for All",
+    "image_path": "image_language/07-artificialtutor-language-robot.png",
+    "logo_path": "logo_language/07-artificialtutor-language-robot-logo.png"
+  },
+  {
+    "name": "MathCompanion Robot",
+    "purpose": "Mathematics and problem-solving education",
+    "features": [
+      "Purpose: Mathematics and problem-solving education",
+      "Key Features:",
+      "Adaptive math curriculum",
+      "Step-by-step problem solving",
+      "Visual learning techniques",
+      "Confidence-building interactions",
+      "Performance analytics",
+      "- Adaptive math curriculum"
+    ],
+    "slogan": "Unlock Instant Understanding That Just Works",
+    "image_path": "image_language/08-mathcompanion-robot.png",
+    "logo_path": "logo_language/08-mathcompanion-robot-logo.png"
+  },
+  {
+    "name": "GlobalConnect Communication Robot",
+    "purpose": "Cross-cultural communication and understanding",
+    "features": [
+      "Purpose: Cross-cultural communication and understanding",
+      "Key Features:",
+      "Cultural etiquette guidance",
+      "Non-verbal communication analysis",
+      "Language and cultural context explanations",
+      "Real-time communication support",
+      "Adaptive learning interface",
+      "- Cultural etiquette guidance"
+    ],
+    "slogan": "Supercharge Real-time Learning Anywhere You Go",
+    "image_path": "image_language/09-globalconnect-communication-robot.png",
+    "logo_path": "logo_language/09-globalconnect-communication-robot-logo.png"
+  },
+  {
+    "name": "CreativeMind Innovation Robot",
+    "purpose": "Creative thinking and problem-solving development",
+    "features": [
+      "Purpose: Creative thinking and problem-solving development",
+      "Key Features:",
+      "Brainstorming assistance",
+      "Design thinking workshops",
+      "Creativity exercise generator",
+      "Idea visualization tools",
+      "Collaborative learning platform",
+      "- Brainstorming assistance"
+    ],
+    "slogan": "Elevate Smart Conversation in Minutes",
+    "image_path": "image_language/10-creativemind-innovation-robot.png",
+    "logo_path": "logo_language/10-creativemind-innovation-robot-logo.png"
+  }
+]
